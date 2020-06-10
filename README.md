@@ -8,7 +8,7 @@ This will be a collection of responses and python based macros to control aspect
 * "Looks like i don't have very many viewers"
       *RESPONSE: Awe. look at me. i'm a little cupcake left out in the sun too long and melting like a f**ing precious snowflake.
 * "And that pisses me off"
-      *RESPONSE: Stop being auch a pussy.
+      *RESPONSE: Stop being such a pussy.
 * "I feel horrible"
       *RESPONSE: Oh here we go.
 * "It's pretty cold out tonight"
