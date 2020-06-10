@@ -6,9 +6,13 @@ This will be a collection of responses and python based macros to control aspect
 
 ## Examples
 * "Looks like i don't have very many viewers"
+      *RESPONSE: Awe. look at me. i'm a little cupcake left out in the sun too long and melting like a f**ing precious snowflake.
 * "And that pisses me off"
+      *RESPONSE: Stop being auch a pussy.
 * "I feel horrible"
+      *RESPONSE: Oh here we go.
 * "It's pretty cold out tonight"
+      *RESPONSE: Really?  go on. . . nevermind, I don't care. have I ever told you about the time I was in the Siberian mountains? yes, hiking and frolicking in three meters of hard packed snow with winds that would burn the hide off of a Bison. it was absolutely crazy..  Anyway. What were you saying?
 
 ## Extra Bits to Consider 
 * Montgomery is well travelled and has an addiction complex loving watching Fly Fishing
