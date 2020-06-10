@@ -2,7 +2,7 @@
 Unsupportive and mean radio co host
 
 ## About
-This will be a collection of responses and python based macros to control aspects of obs streaming.   i hope.   i'm looking into how to do this.  if anyone knows..  fuckin hit me up!  robert j. morris
+This will be a collection of responses and python based macros to control aspects of obs streaming.   i hope.   i'm looking into how to do this.  if anyone knows..  frickin hit me up!  robert j. morris
 
 ## Examples
 * "Looks like i don't have very many viewers"
