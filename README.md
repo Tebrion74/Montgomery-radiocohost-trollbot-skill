@@ -10,6 +10,14 @@ This will be a collection of responses and python based macros to control aspect
 * "I feel horrible"
 * "It's pretty cold out tonight"
 
+## Extra Bits to Consider 
+* Montgomery is well travelled and has an addiction complex loving watching Fly Fishing
+* will tell many stories
+* will argue
+* will bud into a conversation
+* Can be signalled to trigger macros that can be used for podcast and livestream software like OBS-studio and such.
+* Montgomery will kick your ass. 
+
 ## Credits
 Robert J. Morris
 
