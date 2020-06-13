@@ -1,5 +1,5 @@
 # <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/podcast.svg" card_color="#40DBB0" width="50" height="50" style="vertical-align:bottom"/> Radiocohost Trollbot
-Unsupportive and mean radio co host - Development Branch
+Unsupportive and mean radio co host - Master Branch
 
 ## About
 This will be a collection of responses and python based macros to control aspects of obs streaming.   Vocal input will trigger key macros and predefined and 'random' behaviours based on a tempermental model that accumulates data over the course of the session (aka the show, podcast, etc.)
@@ -25,6 +25,7 @@ THe following are just examples of the simple dialog responses to basic intents.
 * will bud into a conversation
 * Can be signalled to trigger macros that can be used for podcast and livestream software like OBS-studio and such.
 * Montgomery will kick your ass. 
+* Does not get along with Christopher
 
 ## Credits
 Robert J. Morris
