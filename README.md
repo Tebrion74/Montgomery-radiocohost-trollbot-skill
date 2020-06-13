@@ -1,8 +1,12 @@
 # <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/podcast.svg" card_color="#40DBB0" width="50" height="50" style="vertical-align:bottom"/> Radiocohost Trollbot
-Unsupportive and mean radio co host
+Unsupportive and mean radio co host - Development Branch
 
 ## About
-This will be a collection of responses and python based macros to control aspects of obs streaming.   i hope.   i'm looking into how to do this.  if anyone knows..  frickin hit me up!  robert j. morris
+This will be a collection of responses and python based macros to control aspects of obs streaming.   Vocal input will trigger key macros and predefined and 'random' behaviours based on a tempermental model that accumulates data over the course of the session (aka the show, podcast, etc.)
+
+Simple emotion variables will determine a potential for a certain response based on the intent and the emotion matrix. However, Montgomery will always do his job and send the key macros to (for instance) OBS-STUDIO to drive transition changes, or whatever the user has customized Montgomery's actions to entail by way of keyboard macros. I currently have not the slightest clue in python what libraries are required.  I'm beginning from the bottom here. But one thing is for sure. The more work that Monty does the more pissed off he'll get and the more likely he will be savagely insulting. Ideas include Montgomery accidentally tripping a video feed or cutting someone's volume to be a dick, and then apologize.  I could go on for decades on the ideas.  
+
+THe following are just examples of the simple dialog responses to basic intents. 
 
 ## Examples
 * "Looks like i don't have very many viewers"
